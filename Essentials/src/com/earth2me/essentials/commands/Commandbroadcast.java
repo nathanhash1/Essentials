@@ -11,7 +11,7 @@ public class Commandbroadcast extends EssentialsCommand
 {
 	public Commandbroadcast()
 	{
-		super("broadcast");
+		super("alert");
 	}
 
 	@Override
